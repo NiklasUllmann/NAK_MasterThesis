@@ -14,3 +14,7 @@ This thesis introduces a novel approach to UBO identiﬁcation, representing own
 performance and potential to address the existing problems.
 
 The result is a machine learning model that provides reliable predictions and, in some cases, mitigates problems of the traditional algorithmic approach. These results underscore the viability of graph-based machine learning as a valuable method for identifying UBO s within complex ownership structures. A robust machine learning model for UBO identiﬁcation has signiﬁcant applications across various industries and scientiﬁc domains, strengthening transparency, compliance, and risk mitigation, while combating ﬁnancial crime, ensuring ethical practices, and supporting responsible resource management.
+
+## License Agreement
+
+This agreement grants you (the Licensee) the right to freely read, research, and use the thesis content. However, any commercial use for profit requires prior written consent from the Licensor. For commercial use, contact IBM, as they have the primary right to authorize it. The Licensor retains all intellectual property rights, provides no warranties, and this agreement is governed by the laws of Germany.
